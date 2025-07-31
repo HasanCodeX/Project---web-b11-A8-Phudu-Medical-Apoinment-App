@@ -1,7 +1,7 @@
 # 🏥 Phudu Medical Appointment App
 
 📌 **Live Site:** [phudu-medical.netlify.app](https://phudu-medical.netlify.app/)  
-📁 **Repository:** [GitHub](https://github.com/HasanCodeX/Project---web-b11-A8-Phudu-Medical-Apoinment-App)
+📁 **Repository:** [GitHub](https://github.com/mehedi-hasan1102/Phudu-Medical-Apoinment-App)
 
 Phudu Medical is a modern and responsive medical appointment booking web app. It allows users to browse doctors, view profiles, and book appointments—all from a clean, fast interface. The project is built using **React 19**, **Vite**, **Tailwind CSS 4**, and **DaisyUI**.
 
@@ -39,8 +39,8 @@ Phudu Medical is a modern and responsive medical appointment booking web app. It
 
 ```bash
 # Clone the repository
-git clone https://github.com/HasanCodeX/Project---web-b11-A8-Phudu-Medical-Apoinment-App.git
-cd Project---web-b11-A8-Phudu-Medical-Apoinment-App
+git clone https://github.com/mehedi-hasan1102/Phudu-Medical-Apoinment-App
+cd Phudu-Medical-Apoinment-App
 
 # Install dependencies
 npm install
